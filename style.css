@@ -1,0 +1,21 @@
+.box-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.choice-box {
+  margin-top: 1rem;
+  padding: .5rem 1rem;
+  width: 12rem;
+  border: 1px solid lightgray;
+}
+
+.score-box {
+  padding: .5rem 1rem;
+  width: 12rem;
+  border: 1px solid lightgray;
+}
+
+.hidden {
+  display: none !important;
+}
